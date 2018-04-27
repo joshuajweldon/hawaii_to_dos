@@ -8,6 +8,8 @@ NOTE: I tried to keep the options close to North Shore and Waikiki for connivenc
 
 ---
 
+__Table of Contents__
+
 - [Hawaii To-Dos](#hawaii-to-dos)
   * [Luau](#luau)
   * [Food](#food)
