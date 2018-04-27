@@ -3,14 +3,14 @@
 If you are visiting Hawaii, you must eat the food, visit the beaches, and hike the mountains. Sounds easy, but there is so many options to choose from. So, here is a good list to get you started. 
 
 ```
-NOTE: I tried to keep the options close to North Shore and Waikiki for convience. Thus some great "hole-in-the-wall" places where omited.
+NOTE: I tried to keep the options close to North Shore and Waikiki for connivence. Thus some great "hole-in-the-wall" places where omitted.
 ```
 
 ---
 
 ## Luau
 
-Culture, food, music, dance, FIRE and more! You can't visit Hawaii without going to a Luau. It is a chance to experiance the Hawaiian culture in a truly emersive way. And, there is one place that has it all, The Polynesian Cultural Center. I recommend spend the whole day their, where you walk from "village" to "village", with each representing a different pacific island. Then, at the end of the day, eat Hawaiian food and watch their show, "Ha". The whole experiance is really fun, and the show is beath taking. 
+Culture, food, music, dance, FIRE and more! You can't visit Hawaii without going to a Luau. It is a chance to experience the Hawaiian culture in a truly immersive way. And, there is one place that has it all, The Polynesian Cultural Center. I recommend spend the whole day their, where you walk from "village" to "village", with each representing a different pacific island. Then, at the end of the day, eat Hawaiian food and watch their show, "Ha". The whole experience is really fun, and the show is breath-taking. 
 
 [__Polynesian Cultural Center__](https://www.yelp.com/biz/polynesian-cultural-center-laie-3?utm_campaign=www_business_share_popup&utm_medium=copy_link&utm_source=(direct))
 
@@ -41,7 +41,7 @@ NOTE: Many of the places below, offer great Vegetarian options.
 
 ### Hawaiian Food
 
-Laulau, Squid Luau, Kalua Pork, Lomilomi Salmon, Poi, Halpia and more. You can experiance Hawaiian food at a Luau as mentioned above, but if you'd rather eat it at a restraunt Halena's is a great option. You can also find Hawaiian entries on many menu's at local restraunts.
+Laulau, squid luau, kalua Pork, lomi salmon, poi, haupia and more. You can experience Hawaiian food at a Luau as mentioned above, but if you'd rather eat it at a restaurant Helena's is a great option. You can also find Hawaiian entries on many menu's at local restaurant.
 
 [__Halena's__](https://www.yelp.com/biz/helenas-hawaiian-food-honolulu?utm_campaign=www_business_share_popup&utm_medium=copy_link&utm_source=(direct))
 
@@ -49,7 +49,7 @@ Laulau, Squid Luau, Kalua Pork, Lomilomi Salmon, Poi, Halpia and more. You can e
 
 ### Local Food
 
-Loco moco, poke, oxtail soup, plate lunch, and shaved ice and more. Hawaii is a meltingpot, and thus "local food" has become a genera of its own. "Local food" can be described as a fusion of Asian, Polynesian, and Western flavors. Here are a two places I recommend.
+Loco moco, poke, oxtail soup, plate lunch, and shaved ice and more. Hawaii is a melting-pot, and thus "local food" has become a genera of its own. "Local food" can be described as a fusion of Asian, Polynesian, and Western flavors. Here are a two places I recommend.
 
 [__Highway Inn__](https://www.yelp.com/biz/highway-inn-restaurant-kakaako-honolulu?utm_campaign=www_business_share_popup&utm_medium=copy_link&utm_source=(direct))
 
@@ -86,7 +86,7 @@ NOTE: This is a link to just one of the food trucks in this location.
 
 ### Fish
 
-Shushimi, Sushi, poke, raw, grilled and steamed! Seafood is such a staple food in Hawaii, and it branches across so many different cuisines. There are so many great places for both raw and cooked fish that it is hard to narrow it down. Here are a few places that I like to go to when I am craving fish.
+Sashimi, sushi, poke, grilled and steamed fish! Seafood is such a staple food in Hawaii, and it branches across so many different cuisines. There are so many great places for both raw and cooked fish that it is hard to narrow it down. Here are a few places that I like to go to when I am craving fish.
 
 #### Raw Fish
 
@@ -118,7 +118,7 @@ NOTE: Hole-in-the-wall, but they get their fish fresh from the market daily givi
 
 ### Ethnic Food
 
-Chinese, Japanese, Korean, Indian and more. Hawaii being a meltingpot gives you access to so many cuisines. Here are a few of my favorite places.
+Chinese, Japanese, Korean, Indian and more. Hawaii being a melting-pot gives you access to so many cuisines. Here are a few of my favorite places.
 
 #### Chinese
 
@@ -141,7 +141,7 @@ Chinese, Japanese, Korean, Indian and more. Hawaii being a meltingpot gives you 
 [__Choi's Garden__](https://www.yelp.com/biz/chois-garden-restaurant-honolulu?utm_campaign=www_business_share_popup&utm_medium=copy_link&utm_source=(direct))
 
 ![Choi's Garden Food Photo][CHOIS]
-  
+
 #### Indian
 
 [__Cafe Maharani__](https://www.yelp.com/biz/cafe-maharani-honolulu?utm_campaign=www_business_share_popup&utm_medium=copy_link&utm_source=(direct))
@@ -150,7 +150,7 @@ Chinese, Japanese, Korean, Indian and more. Hawaii being a meltingpot gives you 
 
 #### Ethiopian
 
-![__Ethiopian Love__](https://www.yelp.com/biz/ethiopian-love-restaurant-honolulu?utm_campaign=www_business_share_popup&utm_medium=copy_link&utm_source=(direct))
+[__Ethiopian Love__](https://www.yelp.com/biz/ethiopian-love-restaurant-honolulu?utm_campaign=www_business_share_popup&utm_medium=copy_link&utm_source=(direct))
 
 ![Ethiopian Love Food Photo][LOVE]
 
@@ -177,7 +177,7 @@ Snorkeling, paddle boarding, surfing, and warm sand. Waikiki is a great place to
 [__Shark's Cove__](https://www.yelp.com/biz/sharks-cove-haleiwa-3?utm_campaign=www_business_share_popup&utm_medium=copy_link&utm_source=(direct))
 
 ```
-NOTE: I have never seen a shark here; I believe the name is more to do with the shape. But, there are A LOT of sea turtles. So, you can breath easy while snorkling the best spot on Oahu :P
+NOTE: I have never seen a shark here; I believe the name is more to do with the shape. But, there are A LOT of sea turtles. So, you can breath easy while snorkeling the best spot on Oahu :P
 ```
 
 ![Shark's Cove Photo][SHARKS]
@@ -211,7 +211,7 @@ NOTE: This is a longer hike, but you can pick wild fruit along the way. And, onc
 [__Stairway to Heaven__](https://www.yelp.com/biz/haiku-stairs-access-restricted-kaneohe?utm_campaign=www_business_share_popup&utm_medium=copy_link&utm_source=(direct))
 
 ```
-NOTE: This is a VERY famous hike; however, the entrance to the hike is on private road. So, it is techically illegal to reach the trail. Yet, many people still choose to hike it. In order to hike this trail, you must start at 3AM to avoid "getting caught". 
+NOTE: This is a VERY famous hike; however, the entrance to the hike is on private road. So, it is technically illegal to reach the trail. Yet, many people still choose to hike it. In order to hike this trail, you must start at 3AM to avoid "getting caught". 
 ```
 
 ![Stairway to Heaven Photo][STAIRWAY]
