@@ -8,6 +8,30 @@ NOTE: I tried to keep the options close to North Shore and Waikiki for connivenc
 
 ---
 
+- [Hawaii To-Dos](#hawaii-to-dos)
+  * [Luau](#luau)
+  * [Food](#food)
+    + [Vegetarian](#vegetarian)
+    + [Hawaiian Food](#hawaiian-food)
+    + [Local Food](#local-food)
+    + [Food Trucks](#food-trucks)
+    + [Fish](#fish)
+      - [Raw Fish](#raw-fish)
+      - [Cooked Fish](#cooked-fish)
+    + [Other Cusines](#ethnic-food)
+      - [Chinese](#chinese)
+      - [Japanese](#japanese)
+      - [Korean](#korean)
+      - [Indian](#indian)
+      - [Ethiopian](#ethiopian)
+      - [Moroccan](#moroccan)
+  * [Beaches](#beaches)
+  * [Hiking](#hiking)
+  * [Shopping](#shopping)
+- [Aloha and Enjoy!](#aloha-and-enjoy-)
+
+---
+
 ## Luau
 
 Culture, food, music, dance, FIRE and more! You can't visit Hawaii without going to a Luau. It is a chance to experience the Hawaiian culture in a truly immersive way. And, there is one place that has it all, The Polynesian Cultural Center. I recommend spend the whole day their, where you walk from "village" to "village", with each representing a different pacific island. Then, at the end of the day, eat Hawaiian food and watch their show, "Ha". The whole experience is really fun, and the show is breath-taking. 
