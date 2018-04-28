@@ -23,7 +23,7 @@ __Table of Contents__
     + [Fish](#fish)
       - [Raw Fish](#raw-fish)
       - [Cooked Fish](#cooked-fish)
-    + [Other Cuisines](#ethnic-food)
+    + [Other Cuisines](#other-cuisines)
       - [Chinese](#chinese)
       - [Japanese](#japanese)
       - [Korean](#korean)
@@ -160,7 +160,7 @@ without the price.
 
 ![Haleiwa Joe's Photo][JOE]
 
-### Ethnic Food
+### Other Cuisines
 
 Chinese, Japanese, Korean, Indian and more. Hawaii being a melting-pot gives you access to 
 so many cuisines. Here are a few of my favorite places.
