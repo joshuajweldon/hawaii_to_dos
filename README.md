@@ -41,9 +41,9 @@ __Table of Contents__
 
 Culture, food, music, dance, FIRE and more! You can't visit Hawaii without going to a Luau. It 
 is a chance to experience the Hawaiian culture in a truly immersive way. And, there is one 
-place that has it all, The Polynesian Cultural Center. I recommend spend the whole day their,
-where you walk from "village" to "village", with each representing a different pacific island. 
-Then, at the end of the day, eat Hawaiian food and watch their show, "Ha". The whole 
+place that has it all, The Polynesian Cultural Center. I recommend spending the whole day there,
+where you can walk from "village" to "village", with each village representing a different pacific island. 
+Then, at the end of the day, enjoy a Hawaiian buffet and watch their show, "Ha". The whole 
 experience is really fun, and the show is breath-taking. 
 
 [__Polynesian Cultural Center__](https://www.yelp.com/biz/polynesian-cultural-center-laie-3?utm_campaign=www_business_share_popup&utm_medium=copy_link&utm_source=(direct))
@@ -76,8 +76,8 @@ NOTE: Many of the places below, offer great Vegetarian options.
 ### Hawaiian Food
 
 Laulau, squid luau, kalua Pork, lomi salmon, poi, haupia and more. You can experience 
-Hawaiian food at a Luau as mentioned above, but if you'd rather eat it at a restaurant Helena's 
-is a great option. You can also find Hawaiian entries on many menus at local restaurant.
+Hawaiian food at a Luau as mentioned above, but if you'd rather eat at a restaurant Helena's 
+is a great option. You can also find Hawaiian entries on menus at many local restaurant.
 
 [__Halena's__](https://www.yelp.com/biz/helenas-hawaiian-food-honolulu?utm_campaign=www_business_share_popup&utm_medium=copy_link&utm_source=(direct))
 
@@ -86,8 +86,8 @@ is a great option. You can also find Hawaiian entries on many menus at local res
 ### Local Food
 
 Loco moco, poke, oxtail soup, plate lunch, and shaved ice and more. Hawaii is a melting-pot, 
-and thus "local food" has become a genera of its own. "Local food" can be described as a 
-fusion of Asian, Polynesian, and Western flavors. Here are a two places I recommend.
+and thus "local food" has become a cuisine of its own. "Local food" can be described as a 
+fusion of Asian, Polynesian, and Western flavors. Here are two places I recommend.
 
 [__Highway Inn__](https://www.yelp.com/biz/highway-inn-restaurant-kakaako-honolulu?utm_campaign=www_business_share_popup&utm_medium=copy_link&utm_source=(direct))
 
@@ -101,7 +101,7 @@ fusion of Asian, Polynesian, and Western flavors. Here are a two places I recomm
 ### Food Trucks
 
 You can get some great food by going to "Eat the Street" events and visiting different food 
-trucks. Here are a few parking locations for the food trucks.
+trucks. Here are a few parking locations for the food trucks, if you can't make the event.
 
 [__Pau Hana Market Waikiki__](https://www.yelp.com/biz/pau-hana-market-waikiki-honolulu?utm_campaign=www_business_share_popup&utm_medium=copy_link&utm_source=(direct))
 
@@ -209,7 +209,7 @@ so many cuisines. Here are a few of my favorite places.
 
 ## Beaches
 
-Snorkeling, paddle boarding, surfing, and warm sand. Waikiki is a great place to grab a 
+Snorkeling, paddle boarding, surfing, and warm sand. __Waikiki__ is a great place to grab a 
 surfboard and hit up some waves for beginners, but there are better beaches to relax and 
 snorkel. Here are a few other options.
 
@@ -225,7 +225,7 @@ snorkel. Here are a few other options.
 
 ```
 NOTE: I have never seen a shark here; I believe the name is more to do 
-with the shape. But, there are A LOT of sea turtles. So, you can breath 
+with the shape of the cove. But, there are A LOT of sea turtles. So, you can breath 
 easy while snorkeling the best spot on Oahu.
 ```
 
@@ -235,7 +235,7 @@ easy while snorkeling the best spot on Oahu.
 
 ## Hiking
 
-Waterfalls, breath-taking views, nature! Hawaii has beautiful hikes all over the island. Here are 
+Waterfalls, breath-taking views, nature! Hawaii has many beautiful hikes all over the island. Here are 
 a few of my favorite.
 
 [__Maunawili Falls__](https://www.yelp.com/biz/maunawili-falls-kailua?utm_campaign=www_business_share_popup&utm_medium=copy_link&utm_source=(direct))
@@ -264,7 +264,7 @@ yourself.
 
 ```
 NOTE: Respect the local residents. This is a VERY famous hike; however, 
-the entrance to the hike is on private road. So, it is technically illegal 
+the entrance to the hike is on a private road. So, it is illegal 
 to reach the trail. Yet, many people still choose to hike it. In order 
 to hike this trail, you should start at 3AM to avoid being turned back by 
 police or local residents. 
@@ -277,7 +277,7 @@ police or local residents.
 ## Shopping
 
 Waikiki is known for it's shopping, but if you are looking for a more local experience, I would 
-recommend visiting some of the "pop-up" farmer markets, or visiting Haleiwa Town in North 
+recommend visiting some of the "pop-up" __farmer markets__, or visiting Haleiwa Town in North 
 Shore.
 
 [__Haleiwa Town__](http://haleiwatown.com)
