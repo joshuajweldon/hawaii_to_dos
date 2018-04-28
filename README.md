@@ -1,9 +1,12 @@
 # Hawaii To-Dos
 
-If you are visiting Hawaii, you must eat the food, visit the beaches, and hike the mountains. Sounds easy, but there is so many options to choose from. So, here is a good list to get you started. 
+If you are visiting Hawaii, you must eat the food, visit the beaches, and hike the mountains. 
+Sounds easy, but there is so many options to choose from. So, here is a good list to get you 
+started. 
 
 ```
-NOTE: I tried to keep the options close to North Shore and Waikiki for connivence. Thus some great "hole-in-the-wall" places where omitted.
+NOTE: I tried to keep the options close to North Shore and Waikiki for 
+convenience. Thus some great "hole-in-the-wall" places were omitted.
 ```
 
 ---
@@ -20,7 +23,7 @@ __Table of Contents__
     + [Fish](#fish)
       - [Raw Fish](#raw-fish)
       - [Cooked Fish](#cooked-fish)
-    + [Other Cusines](#ethnic-food)
+    + [Other Cuisines](#ethnic-food)
       - [Chinese](#chinese)
       - [Japanese](#japanese)
       - [Korean](#korean)
@@ -36,7 +39,12 @@ __Table of Contents__
 
 ## Luau
 
-Culture, food, music, dance, FIRE and more! You can't visit Hawaii without going to a Luau. It is a chance to experience the Hawaiian culture in a truly immersive way. And, there is one place that has it all, The Polynesian Cultural Center. I recommend spend the whole day their, where you walk from "village" to "village", with each representing a different pacific island. Then, at the end of the day, eat Hawaiian food and watch their show, "Ha". The whole experience is really fun, and the show is breath-taking. 
+Culture, food, music, dance, FIRE and more! You can't visit Hawaii without going to a Luau. It 
+is a chance to experience the Hawaiian culture in a truly immersive way. And, there is one 
+place that has it all, The Polynesian Cultural Center. I recommend spend the whole day their,
+where you walk from "village" to "village", with each representing a different pacific island. 
+Then, at the end of the day, eat Hawaiian food and watch their show, "Ha". The whole 
+experience is really fun, and the show is breath-taking. 
 
 [__Polynesian Cultural Center__](https://www.yelp.com/biz/polynesian-cultural-center-laie-3?utm_campaign=www_business_share_popup&utm_medium=copy_link&utm_source=(direct))
 
@@ -67,7 +75,9 @@ NOTE: Many of the places below, offer great Vegetarian options.
 
 ### Hawaiian Food
 
-Laulau, squid luau, kalua Pork, lomi salmon, poi, haupia and more. You can experience Hawaiian food at a Luau as mentioned above, but if you'd rather eat it at a restaurant Helena's is a great option. You can also find Hawaiian entries on many menu's at local restaurant.
+Laulau, squid luau, kalua Pork, lomi salmon, poi, haupia and more. You can experience 
+Hawaiian food at a Luau as mentioned above, but if you'd rather eat it at a restaurant Helena's 
+is a great option. You can also find Hawaiian entries on many menus at local restaurant.
 
 [__Halena's__](https://www.yelp.com/biz/helenas-hawaiian-food-honolulu?utm_campaign=www_business_share_popup&utm_medium=copy_link&utm_source=(direct))
 
@@ -75,7 +85,9 @@ Laulau, squid luau, kalua Pork, lomi salmon, poi, haupia and more. You can exper
 
 ### Local Food
 
-Loco moco, poke, oxtail soup, plate lunch, and shaved ice and more. Hawaii is a melting-pot, and thus "local food" has become a genera of its own. "Local food" can be described as a fusion of Asian, Polynesian, and Western flavors. Here are a two places I recommend.
+Loco moco, poke, oxtail soup, plate lunch, and shaved ice and more. Hawaii is a melting-pot, 
+and thus "local food" has become a genera of its own. "Local food" can be described as a 
+fusion of Asian, Polynesian, and Western flavors. Here are a two places I recommend.
 
 [__Highway Inn__](https://www.yelp.com/biz/highway-inn-restaurant-kakaako-honolulu?utm_campaign=www_business_share_popup&utm_medium=copy_link&utm_source=(direct))
 
@@ -88,7 +100,8 @@ Loco moco, poke, oxtail soup, plate lunch, and shaved ice and more. Hawaii is a 
 
 ### Food Trucks
 
-You can get some great food by going to "Eat the Street" events and visiting different food trucks. Here are a few parking locations for the food trucks.
+You can get some great food by going to "Eat the Street" events and visiting different food 
+trucks. Here are a few parking locations for the food trucks.
 
 [__Pau Hana Market Waikiki__](https://www.yelp.com/biz/pau-hana-market-waikiki-honolulu?utm_campaign=www_business_share_popup&utm_medium=copy_link&utm_source=(direct))
 
@@ -112,7 +125,10 @@ NOTE: This is a link to just one of the food trucks in this location.
 
 ### Fish
 
-Sashimi, sushi, poke, grilled and steamed fish! Seafood is such a staple food in Hawaii, and it branches across so many different cuisines. There are so many great places for both raw and cooked fish that it is hard to narrow it down. Here are a few places that I like to go to when I am craving fish.
+Sashimi, sushi, poke, grilled and steamed fish! Seafood is such a staple food in Hawaii, and it 
+branches across so many different cuisines. There are so many great places for both raw and 
+cooked fish that it is hard to narrow it down. Here are a few places that I like to go to when I 
+am craving fish.
 
 #### Raw Fish
 
@@ -123,7 +139,9 @@ Sashimi, sushi, poke, grilled and steamed fish! Seafood is such a staple food in
 [__Ahi and Vegitable__](https://www.yelp.com/biz/ahi-and-vegetable-honolulu-3?utm_campaign=www_business_share_popup&utm_medium=copy_link&utm_source=(direct))
 
 ```
-NOTE: Hole-in-the-wall, but they get their fish fresh from the market daily giving their food the same quality as most fine dining places, without the price.
+NOTE: Hole-in-the-wall, but they get their fish fresh from the market 
+daily giving their food the same quality as most fine dining places, 
+without the price.
 ```
 
 ![Ahi and Vegetable Sushi Photo][AHI]
@@ -144,7 +162,8 @@ NOTE: Hole-in-the-wall, but they get their fish fresh from the market daily givi
 
 ### Ethnic Food
 
-Chinese, Japanese, Korean, Indian and more. Hawaii being a melting-pot gives you access to so many cuisines. Here are a few of my favorite places.
+Chinese, Japanese, Korean, Indian and more. Hawaii being a melting-pot gives you access to 
+so many cuisines. Here are a few of my favorite places.
 
 #### Chinese
 
@@ -190,7 +209,9 @@ Chinese, Japanese, Korean, Indian and more. Hawaii being a melting-pot gives you
 
 ## Beaches
 
-Snorkeling, paddle boarding, surfing, and warm sand. Waikiki is a great place to grab a surfboard and hit up some waves for beginners, but there are better beaches to relax and snorkel. Here are a few other options.
+Snorkeling, paddle boarding, surfing, and warm sand. Waikiki is a great place to grab a 
+surfboard and hit up some waves for beginners, but there are better beaches to relax and 
+snorkel. Here are a few other options.
 
 [__Waimea Bay__](https://www.yelp.com/biz/waimea-bay-beach-park-haleiwa-2?utm_campaign=www_business_share_popup&utm_medium=copy_link&utm_source=(direct))
 
@@ -203,7 +224,9 @@ Snorkeling, paddle boarding, surfing, and warm sand. Waikiki is a great place to
 [__Shark's Cove__](https://www.yelp.com/biz/sharks-cove-haleiwa-3?utm_campaign=www_business_share_popup&utm_medium=copy_link&utm_source=(direct))
 
 ```
-NOTE: I have never seen a shark here; I believe the name is more to do with the shape. But, there are A LOT of sea turtles. So, you can breath easy while snorkeling the best spot on Oahu :P
+NOTE: I have never seen a shark here; I believe the name is more to do 
+with the shape. But, there are A LOT of sea turtles. So, you can breath 
+easy while snorkeling the best spot on Oahu.
 ```
 
 ![Shark's Cove Photo][SHARKS]
@@ -212,7 +235,8 @@ NOTE: I have never seen a shark here; I believe the name is more to do with the 
 
 ## Hiking
 
-Waterfalls, breath-taking views, nature! Hawaii has beautiful hikes all over the island. Here are a few of my favorite.
+Waterfalls, breath-taking views, nature! Hawaii has beautiful hikes all over the island. Here are 
+a few of my favorite.
 
 [__Maunawili Falls__](https://www.yelp.com/biz/maunawili-falls-kailua?utm_campaign=www_business_share_popup&utm_medium=copy_link&utm_source=(direct))
 
@@ -221,7 +245,9 @@ Waterfalls, breath-taking views, nature! Hawaii has beautiful hikes all over the
 [__Laie Falls__](https://www.yelp.com/biz/laie-falls-laie?utm_campaign=www_business_share_popup&utm_medium=copy_link&utm_source=(direct))
 
 ```
-NOTE: This is a longer hike, but you can pick wild fruit along the way. And, once you reach the falls, you will most likely have the area all to yourself.
+NOTE: This is a longer hike, but you can pick wild fruit along the way. 
+And, once you reach the falls, you will most likely have the area all to 
+yourself.
 ```
 
 ![Laie Falls Photo][LAIE]
@@ -237,7 +263,11 @@ NOTE: This is a longer hike, but you can pick wild fruit along the way. And, onc
 [__Stairway to Heaven__](https://www.yelp.com/biz/haiku-stairs-access-restricted-kaneohe?utm_campaign=www_business_share_popup&utm_medium=copy_link&utm_source=(direct))
 
 ```
-NOTE: This is a VERY famous hike; however, the entrance to the hike is on private road. So, it is technically illegal to reach the trail. Yet, many people still choose to hike it. In order to hike this trail, you must start at 3AM to avoid "getting caught". 
+NOTE: Respect the local residents. This is a VERY famous hike; however, 
+the entrance to the hike is on private road. So, it is technically illegal 
+to reach the trail. Yet, many people still choose to hike it. In order 
+to hike this trail, you should start at 3AM to avoid being turned back by 
+police or local residents. 
 ```
 
 ![Stairway to Heaven Photo][STAIRWAY]
@@ -246,7 +276,9 @@ NOTE: This is a VERY famous hike; however, the entrance to the hike is on privat
 
 ## Shopping
 
-Waikiki is known for it's shopping, but if you are looking for a more local experience, I would recommend visiting some of the "pop-up" farmer markets, or visiting Haleiwa Town in North Shore.
+Waikiki is known for it's shopping, but if you are looking for a more local experience, I would 
+recommend visiting some of the "pop-up" farmer markets, or visiting Haleiwa Town in North 
+Shore.
 
 [__Haleiwa Town__](http://haleiwatown.com)
 
