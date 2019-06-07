@@ -152,6 +152,10 @@ without the price.
 
 #### Cooked Fish
 
+[__Nico’s Pier 38__](https://www.yelp.com/biz/nicos-pier-38-honolulu-2)
+
+![Nicos Food Photo][NICOS]
+
 [__Herringbone__](https://www.yelp.com/biz/herringbone-waikiki-honolulu?utm_campaign=www_business_share_popup&utm_medium=copy_link&utm_source=(direct))
 
 ![Herringbone Food Photo][HERRING]
@@ -177,7 +181,7 @@ so many cuisines. Here are a few of my favorite places.
 
 #### Japanese
 
-[__Shirokiya Japan Village Walk__](https://www.yelp.com/biz/shirokiya-japan-village-walk-honolulu-6?utm_campaign=www_business_share_popup&utm_medium=copy_link&utm_source=(direct))
+[__Shirokiya Japan Village Walk__](https://www.yelp.com/biz/shirokiya-japan-village-walk-honolulu-6?osq=Shirokiya+Japan+Village+Walk)
 
 ![Japanese Village Walk Photo][JAPANWALK]
 
@@ -301,13 +305,14 @@ Shore.
 [AHI]: https://s3-media1.fl.yelpcdn.com/bphoto/Ic93PFiDlPKkRt4pqDupWA/o.jpg "Ahi and Vegetable"
 [DORAKU]: https://s3-media2.fl.yelpcdn.com/bphoto/SROTolq3r3B2qjZiplorlg/o.jpg "Doraku"
 
+[NICOS]: https://s3-media1.fl.yelpcdn.com/bphoto/EzSbKTezCOUQr0lmP4xpYw/o.jpg "Nicos Pier 38"
 [HERRING]: https://s3-media1.fl.yelpcdn.com/bphoto/xN3f8P-m6mYymO1Ktmob4Q/o.jpg "Herringbone"
 [JOE]: https://s3-media2.fl.yelpcdn.com/bphoto/rlh-UGBvHfqxX0IN27ok5Q/o.jpg "Haleiwa Joe's"
 
 [LEGEND]: https://s3-media2.fl.yelpcdn.com/bphoto/DWaFcfsYtHS1L9Tr3D8muw/o.jpg "Legend"
 [LITTLE]: https://s3-media1.fl.yelpcdn.com/bphoto/3v8HH6pFVVhdxIWIXnvYmQ/o.jpg "Little Village"
 
-[JAPANWALK]: https://s3-media2.fl.yelpcdn.com/bphoto/MqkCom-DwbDed344jSXjFw/o.jpg "Japan Village Walk"
+[JAPANWALK]: https://s3-media2.fl.yelpcdn.com/bphoto/htjv3r_959EZ_gCzY4eSeg/o.jpg "Japan Village Walk"
 
 [CHOIS]: https://s3-media1.fl.yelpcdn.com/bphoto/V7OtsBDvcPx0zEHCdtpc-Q/o.jpg "Choi's Garden"
 
